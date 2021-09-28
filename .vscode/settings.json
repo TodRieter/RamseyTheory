@@ -1,6 +1,6 @@
 {
     "git.ignoredRepositories": [
         "TodRieter/TreeProject",
-        "Thomas Wilson"
-    ]
+    ],
+    "git.autofetch": true
 }
